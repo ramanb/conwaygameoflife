@@ -1,0 +1,10 @@
+
+A Scala and Swing (with Scala bindings) based solution for Conway Game of Life.
+The rules for the game are outlined in "ConwayGameOfLife.scala".
+Press "Start" to start the game.
+Press "Stop" to pause the game.
+Press "Terminate" to exit the game (and the UI).
+
+
+Note that no optimisation has been done of the game..
+
