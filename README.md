@@ -5,6 +5,12 @@ Press "Start" to start the game.
 Press "Stop" to pause the game.
 Press "Terminate" to exit the game (and the UI).
 
+Gotchas:
+1) No unit tests ... ???
+2) No optimisation has been done of the game.. this is my first foray into Scala.
 
-Note that no optimisation has been done of the game..
+To run:
+1) Import into Eclipse as an existing workspace - Helios seems to work
+2) Run as a Scala application
+
 
